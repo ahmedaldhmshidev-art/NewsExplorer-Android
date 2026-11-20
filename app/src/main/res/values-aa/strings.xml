@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Global Info Countries</string>
+    <string name="hello_blank_fragment">Hello Blank Fragment</string>
+
+    <string name="nameTxtCard">الاسم</string>
+    <string name="flagTxtCard">العلم</string>
+    <string name="capitalTxtCard">العاصمة</string>
+    <string name="populationTxtCard">عدد السكان</string>
+
+    <!-- الشبكة -->
+    <string name="error_no_internet">لا يوجد اتصال بالإنترنت</string>
+    <string name="error_timeout">انتهت مهلة الاتصال</string>
+
+    <!-- الخادم -->
+    <string name="error_server">حدث خطأ في الخادم</string>
+    <string name="error_not_found">المحتوى غير موجود</string>
+
+    <!-- عام -->
+    <string name="error_unknown">حدث خطأ غير متوقع</string>
+    <string name="error_retry">إعادة المحاولة</string>
+    <string name="error_noFoundNewsCountry">الدولة غير مدعومة بالأخبار</string>
+    <string name="error_empty_data">لا توجد بيانات للعرض</string>
+    <string name="error_tooManyRequests">طلبات كثيرة جدًا، يرجى الانتظار قليلًا</string>
+
+    <!-- روابط الأخبار -->
+    <string name="error_linkNoFound">لا يوجد رابط لهذا الخبر</string>
+    <string name="error_linkNoOpen">خطأ أثناء فتح الرابط</string>
+
+</resources>

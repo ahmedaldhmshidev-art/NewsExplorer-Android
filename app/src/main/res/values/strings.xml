@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Global Info Countries</string>
+    <string name="hello_blank_fragment">Hello Blank Fragment</string>
+
+    <string name="nameTxtCard">Name</string>
+    <string name="flagTxtCard">Flag</string>
+    <string name="capitalTxtCard">Capital</string>
+    <string name="populationTxtCard">Population</string>
+
+    <!-- Network -->
+    <string name="error_no_internet">No internet connection</string>
+    <string name="error_timeout">Connection timed out</string>
+
+    <!-- Server -->
+    <string name="error_server">Server error occurred</string>
+    <string name="error_not_found">Content not found</string>
+
+    <!-- General -->
+    <string name="error_unknown">An unexpected error occurred</string>
+    <string name="error_retry">Retry</string>
+
+    <string name="error_empty_data">No data available</string>
+    <string name="error_tooManyRequests">Too many requests, please try again later</string>
+    <string name="error_noFoundNewsCountry">This country is not supported by news</string>
+
+    <string name="error_linkNoFound">No link available for this news</string>
+    <string name="error_linkNoOpen">Error while opening the link</string>
+</resources>
